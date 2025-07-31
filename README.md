@@ -1,19 +1,54 @@
-<h1 align="center">
-  Hi, I'm Lizeth Luciano
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+# Hello! 👋 I'm **Lizeth Luciani** ✨  
+### 💻 **Python Developer** | 🎵 **Music Lover** | 🎬 **Film & Series Enthusiast**  
 
-<!--
-**YuWmee12/YuWmee12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🌍 Passionate about tech, art, and creativity.**  
+**⚡ Fun fact:** I can spend hours discussing movies or recommending songs!  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 **Tech Stack**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+*(🔧 Currently learning: [Add a tech you're learning])*  
+
+---
+
+## 📊 **GitHub Stats**  
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true)](https://github.com/YOUR_USERNAME)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)](https://github.com/YOUR_USERNAME)  
+
+---
+
+## 🎯 **Featured Projects**  
+1. **[Project Name](https://github.com/YOUR_USERNAME/repo)** - Short description (e.g., "A Python script to analyze movie trends").  
+2. **[Project Name](https://github.com/YOUR_USERNAME/repo)** - "A music recommendation system using Pandas."  
+
+*(💡 Pro tip: Add a GIF or screenshot of your project above!)*  
+
+---
+
+## 📫 **Connect With Me**  
+
+| 📩 **Professional** | 🌍 **Social & Code** |
+|---------------------|----------------------|
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME) |
+| [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com) | [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yourprofile) |
+| [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile) |
+
+---
+
+## 🎵 **Beyond Code**  
+- 🎧 **Currently listening to:** [Song/Artist] *(Spotify badge? Use [this](https://github.com/kittinan/spotify-github-profile))*.  
+- 🎬 **Favorite movie genre:** Sci-Fi/Rom-Com/Action.  
+- 📚 **Reading:** [Book Title] *(optional)*.  
+
+---
+
+## 🔥 **Daily Motivation**  
+> "Code is poetry. Music is fuel. Films are escape."  
+
+![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)  
