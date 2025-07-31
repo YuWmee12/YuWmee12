@@ -1,4 +1,4 @@
-# Hello! 👋 I'm **Lizeth Luciani** ✨  
+# Hello! 👋 I'm **Lizeth Luciano** ✨  
 ### 💻 **Python Developer** | 🎵 **Music Lover** | 🎬 **Film & Series Enthusiast**  
 
 **🌍 Passionate about tech, art, and creativity.**  
@@ -8,12 +8,9 @@
 
 ## 🛠 **Tech Stack**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-*(🔧 Currently learning: [Add a tech you're learning])*  
 
 ---
 
