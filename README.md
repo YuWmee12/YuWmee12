@@ -24,7 +24,6 @@
 1. **[Project Name](https://github.com/YOUR_USERNAME/repo)** - Short description (e.g., "A Python script to analyze movie trends").  
 2. **[Project Name](https://github.com/YOUR_USERNAME/repo)** - "A music recommendation system using Pandas."  
 
-*(💡 Pro tip: Add a GIF or screenshot of your project above!)*  
 
 ---
 
@@ -33,16 +32,15 @@
 | 📩 **Professional** | 🌍 **Social & Code** |
 |---------------------|----------------------|
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME) |
-| [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com) | [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yourprofile) |
-| [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile) |
+| [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lizethmayumi777@gmail.com) | [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yUuwMe?t=E9epBvlhJWQEzhNAvvbLpw&s=09) |
+| [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ywm3e) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/myw.m3) |
 
 ---
 
 ## 🎵 **Beyond Code**  
 - 🎧 **Currently listening to:** [Song/Artist] *(Spotify badge? Use [this](https://github.com/kittinan/spotify-github-profile))*.  
 - 🎬 **Favorite movie genre:** Sci-Fi/Rom-Com/Action.  
-- 📚 **Reading:** [Book Title] *(optional)*.  
-
+  
 ---
 
 ## 🔥 **Daily Motivation**  
