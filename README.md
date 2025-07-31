@@ -1,4 +1,4 @@
-# Hello! 👋 I'm **Lizeth Luciano** ✨  
+# Hello! 👋 I'm **Lizeth Luciano** ✨
 ### 💻 **Python Developer** | 🎵 **Music Lover** | 🎬 **Film & Series Enthusiast**  
 
 **🌍 Passionate about tech, art, and creativity.**  
@@ -15,8 +15,8 @@
 ---
 
 ## 📊 **GitHub Stats**  
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true)](https://github.com/YOUR_USERNAME)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)](https://github.com/YOUR_USERNAME)  
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuWmee12&show_icons=true&theme=radical&hide_border=true)](https://github.com/YuWmee12)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YuWmee12&layout=compact&theme=radical&hide_border=true)](https://github.com/YuWmee12)  
 
 ---
 
