@@ -2,7 +2,7 @@
 ### 💻 **Python Developer** | 🎵 **Music Lover** | 🎬 **Film & Series Enthusiast**  
 
 **🌍 Passionate about tech, art, and creativity.**  
-**⚡ Fun fact:** I can spend hours discussing movies or recommending songs!  
+⚡"Music is my passion, ask me for recommendations anytime!"
 
 ---
 
@@ -21,7 +21,7 @@
 ---
 
 ## 🎯 **Featured Projects**  
-1. **[Project Name](https://github.com/YOUR_USERNAME/repo)** - Short description (e.g., "A Python script to analyze movie trends").  
+1. **[Project Name](https://github.com/YOUR_USERNAME/repo)** - "A Python script to analyze movie trends").  
 2. **[Project Name](https://github.com/YOUR_USERNAME/repo)** - "A music recommendation system using Pandas."  
 
 
@@ -38,12 +38,26 @@
 ---
 
 ## 🎵 **Beyond Code**  
-- 🎧 **Currently listening to:** [Song/Artist] *(Spotify badge? Use [this](https://github.com/kittinan/spotify-github-profile))*.  
-- 🎬 **Favorite movie genre:** Sci-Fi/Rom-Com/Action.  
+🎧 **Now playing:** [Flowers - Miley Cyrus](https://youtu.be/G7KNmW9a75Y)  
+🎧 **Currently obsessed with:** [Daft Punk - Get Lucky](https://youtu.be/MBsRolA_5S0)  
+🎶 **Why I love it:** The perfect mix of funk & electronic!  
+🔄 **Listen with me:** [My favorite part starts at 1:30](https://youtu.be/MBsRolA_5S0?t=90)  
+🎬 **Favorite movie genres:** Action 🚀, Superheroes 🦸, Romantic 💖, Comedy 🤣, Sci-Fi🌌  
   
 ---
 
 ## 🔥 **Daily Motivation**  
-> "Code is poetry. Music is fuel. Films are escape."  
 
-![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)  
+if stress > 0:
+
+    play_music()  # 🎧 "Cumbia sobre el río" de Celso Piña on loop
+    
+    watch_film()  # 🍿 Shrek
+    
+else:
+    
+    sleep()       # 😴 print  
+    
+    print("ZZZzzzz...")   
+
+![Coding GIF](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZzRldmtlcmhyN3VwZndlYXFhaHNkdm4xZTZ6bGJ2Z25jem05MGQxcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BemKqR9RDK4V2/giphy.gif)  
