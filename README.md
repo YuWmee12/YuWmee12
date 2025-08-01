@@ -40,8 +40,7 @@
 ## 🎵 **Beyond Code**  
 🎧 **Now playing:** [Flowers - Miley Cyrus](https://youtu.be/G7KNmW9a75Y)  
 🎧 **Currently obsessed with:** [Daft Punk - Get Lucky](https://youtu.be/MBsRolA_5S0)  
-🎶 **Why I love it:** The perfect mix of funk & electronic!  
-🔄 **Listen with me:** [My favorite part starts at 1:30](https://youtu.be/MBsRolA_5S0?t=90)  
+🔄 **🎵 My favorite song:** [My favorite part starts at 0:58](https://youtu.be/MBsRolA_5S0?t=58)  
 🎬 **Favorite movie genres:** Action 🚀, Superheroes 🦸, Romantic 💖, Comedy 🤣, Sci-Fi🌌  
   
 ---
@@ -49,15 +48,14 @@
 ## 🔥 **Daily Motivation**  
 
 if stress > 0:
-
     play_music()  # 🎧 "Cumbia sobre el río" de Celso Piña on loop
-    
     watch_film()  # 🍿 Shrek
-    
 else:
-    
-    sleep()       # 😴 print  
-    
+    sleep()       # 😴  
     print("ZZZzzzz...")   
 
 ![Coding GIF](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZzRldmtlcmhyN3VwZndlYXFhaHNkdm4xZTZ6bGJ2Z25jem05MGQxcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BemKqR9RDK4V2/giphy.gif)  
+
+<h1>
+  Bye
+</h1>
