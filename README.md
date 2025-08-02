@@ -20,7 +20,7 @@
 
 ---
 
-## 🎯 **Featured Projects**  
+## 🎯 **Projects**  
 1. **[Project Name](https://github.com/YOUR_USERNAME/repo)** - "A Python script to analyze movie trends").  
 2. **[Project Name](https://github.com/YOUR_USERNAME/repo)** - "A music recommendation system using Pandas."  
 
@@ -37,15 +37,14 @@
 
 ---
 
-## 🎵 **Beyond Code**  
-🎧 **Now playing:** [Flowers - Miley Cyrus](https://youtu.be/G7KNmW9a75Y)  
 🎧 **Currently obsessed with:** [Daft Punk - Get Lucky](https://youtu.be/MBsRolA_5S0)  
+
 🔄 **🎵 My favorite song:** [My favorite part starts at 0:58](https://youtu.be/MBsRolA_5S0?t=58)  
+
 🎬 **Favorite movie genres:** Action 🚀, Superheroes 🦸, Romantic 💖, Comedy 🤣, Sci-Fi🌌  
   
 ---
 
-## 🔥 **Daily Motivation**  
 
 if stress > 0:
     play_music()  # 🎧 "Cumbia sobre el río" de Celso Piña on loop
