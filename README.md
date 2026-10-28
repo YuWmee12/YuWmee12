@@ -36,25 +36,3 @@
 | [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ywm3e) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/myw.m3) |
 
 ---
-
-🎧 **Currently obsessed with:** [Daft Punk - Get Lucky](https://youtu.be/MBsRolA_5S0)  
-
-🔄 **🎵 My favorite song:** [My favorite part starts at 0:58](https://youtu.be/MBsRolA_5S0?t=58)  
-
-🎬 **Favorite movie genres:** Action 🚀, Superheroes 🦸, Romantic 💖, Comedy 🤣, Sci-Fi🌌  
-  
----
-
-
-if stress > 0:
-    play_music()  # 🎧 "Cumbia sobre el río" de Celso Piña on loop
-    watch_film()  # 🍿 Shrek
-else:
-    sleep()       # 😴  
-    print("ZZZzzzz...")   
-
-![Coding GIF](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZzRldmtlcmhyN3VwZndlYXFhaHNkdm4xZTZ6bGJ2Z25jem05MGQxcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BemKqR9RDK4V2/giphy.gif)  
-
-<h1>
-  Bye
-</h1>
